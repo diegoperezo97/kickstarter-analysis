@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -43,3 +44,7 @@ does not necessarily mean that there is a higher probability of success in May t
 - What are some other possible tables and/or graphs that we could create?
 1. I would like to analyze a base that has 50% successful, 50% failed or 33.33% successful, 33.33% failed, 33.33% canceled, this way we can really know with sufficient information the temporal tendency of failed and canceled theater plays.
 2. I would like to further segment the base having a conversion of all goals to USD, this way we can compare pears with pears and apples with apples.
+=======
+# kickstarter-analysis
+Performing analysis on Kickstarter data to uncover trends
+>>>>>>> 1722548 (Initial commit)
