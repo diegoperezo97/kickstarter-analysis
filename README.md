@@ -1,5 +1,13 @@
 # MODULE 1: Kickstarting with Excel
 
+One of the earliest applications to combine spreadsheets with graphs and charts was Excel, which is still one of the most used data analysis systems today. Excel is a fantastic tool for both novice and experienced users because of its adaptability and simplicity. Excel is also incredibly adaptable. It may be used for a variety of purposes, including business, schoolwork, and personal record-keeping.
+
+We'll discuss advanced Microsoft Excel formulae and vocabulary in this session, use Excel pivot charts to make interactive charts and graphs, and organize data using filters and conditional formatting. We may organize and display data using these algorithms, charts, and filters to identify trends.
+
+Consider a financial adviser who creates dynamic charts from spreadsheets for presentations or an account manager who can combine information from many sheets into a single, easily understood set of takeaways. What features do they share? To improve their analysis and create a data-driven narrative, they are both utilizing Excel's sophisticated visualization features.
+
+With Excel, data is easily organized, filtered, sorted, and visualized all within this single program. It takes much of the busywork out of the number-crunching that data analysis involves. It's no wonder that Excel skills are in high demand. Let's take an in-depth look at advanced Excel tools.
+
 ## Overview of the Analysis
 In this module, I helped an up-and-coming playwright, Louise, who wants to start a crowdfunding campaign to help fund her play, Fever. She is estimating a budget of over $10,000 USD and is understandably hesitant about jumping into her first fundraising campaign. So Louise decided to contact me, an Excel power user, to help her organize, sort, and analyze several thousand crowdfunding projects with 12 variables to uncover any hidden trends to determine whether there are specific factors that make a project’s campaign successful.
 
